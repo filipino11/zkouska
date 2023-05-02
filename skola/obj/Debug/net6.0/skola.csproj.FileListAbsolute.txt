@@ -1,0 +1,15 @@
+C:\Users\filip\source\repos\skola\skola\bin\Debug\net6.0\skola.exe
+C:\Users\filip\source\repos\skola\skola\bin\Debug\net6.0\skola.deps.json
+C:\Users\filip\source\repos\skola\skola\bin\Debug\net6.0\skola.runtimeconfig.json
+C:\Users\filip\source\repos\skola\skola\bin\Debug\net6.0\skola.dll
+C:\Users\filip\source\repos\skola\skola\bin\Debug\net6.0\skola.pdb
+C:\Users\filip\source\repos\skola\skola\obj\Debug\net6.0\skola.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\skola\skola\obj\Debug\net6.0\skola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\source\repos\skola\skola\obj\Debug\net6.0\skola.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\skola\skola\obj\Debug\net6.0\skola.AssemblyInfo.cs
+C:\Users\filip\source\repos\skola\skola\obj\Debug\net6.0\skola.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\skola\skola\obj\Debug\net6.0\skola.dll
+C:\Users\filip\source\repos\skola\skola\obj\Debug\net6.0\refint\skola.dll
+C:\Users\filip\source\repos\skola\skola\obj\Debug\net6.0\skola.pdb
+C:\Users\filip\source\repos\skola\skola\obj\Debug\net6.0\skola.genruntimeconfig.cache
+C:\Users\filip\source\repos\skola\skola\obj\Debug\net6.0\ref\skola.dll
